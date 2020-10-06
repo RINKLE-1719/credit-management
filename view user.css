@@ -1,0 +1,32 @@
+body{
+  background-image: url("../images/black.jpg");
+  background-size: cover;
+}
+h1{
+	color:yellow;
+  font-style: serif;
+  font-size: 150%;
+	margin: 50px auto;
+
+}
+table{
+	width: 800px;
+	color: white;
+}
+table th{
+	text-align: center;
+}
+table td{
+	text-align: center;
+}
+table th, td {
+	border: 1px solid #000;
+	border-collapse: collapse;
+	border-color: #D3E33C;
+	padding: 10px;
+
+}
+a{
+	font-size: 120%;
+	color: yellow;
+}

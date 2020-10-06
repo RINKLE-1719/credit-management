@@ -1,0 +1,76 @@
+body{
+  background-image: url("../images/money.jpg");
+  background-size: cover;
+}
+/*header {
+	color:yellow;
+  font-style: serif;
+  font-size: 120%
+ 
+}*/
+nav{
+	font-size: 90%
+    
+
+}
+p{
+	color: #fff;
+	font-weight: lighter;
+	font-size: 170%;
+}
+
+h3{
+	color: white;
+}
+h1{
+	color:yellow;
+  font-style: serif;
+  font-size: 150%
+
+}
+h2{
+	color:white;
+  font-style: serif;
+  font-size: 300%
+
+}
+/*a{
+	color: pink;
+	font-size: 120%
+}*/
+.container{
+	position: absolute;
+	top: 50%;
+	left:50%;
+	transform: translateX(-50%) translateY(-50%);
+}
+li{
+	display: inline-block;
+}
+li a {
+	text-decoration: underline;
+	display: inline-block;
+	color: #fff;
+	font-family: Source Sans pro;
+	font-weight: lighter;
+	font-size: 28px;
+	padding: 0 20px;
+}
+
+}
+/*
+.cool-link::after {
+	content: '';
+	display: block;
+	width: 0;
+	height: 2px;
+	background: #fff;
+	transition: width .3s
+}
+.cool-link:hover::after {
+	width: 100%;
+	transition: width .3s;
+}
+
+*/
+/* view users page*/
